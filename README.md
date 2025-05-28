@@ -71,3 +71,4 @@ print(f"Inertia: {kmeans.inertia_:.3f}")
 - Optimize the recommendation system using **Nearest Neighbors search**.
 - Expand to multi-category product analysis.
 
+TRUE
